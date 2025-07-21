@@ -1,0 +1,7 @@
+{
+  "num_xapps": 50,
+  "num_params": 125,
+  "num_kpis": 62,
+  "simulation_time": 7500,
+  "time_step": 1
+}
